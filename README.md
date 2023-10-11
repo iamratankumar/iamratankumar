@@ -16,13 +16,10 @@ Welcome to my GitHub profile! I'm a Computer Science Master's student at the Uni
 ## Current Semester Courses
 
 - 📖 **Foundation of Cyber Security**
-  - Seeking help with Linux and theory.
   
 - 📖 **Network Theory**
-  - I often seek coding help for this course.
 
 - 📖 **Bioinformatics**
-  - Primarily working with R programming, but may request Python code assistance.
 
 
 ## Coding Interests
