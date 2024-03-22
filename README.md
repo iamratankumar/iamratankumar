@@ -13,13 +13,19 @@ Welcome to my GitHub profile! I'm a Computer Science Master's student at the Uni
   - Successfully developed and integrated a Dining module for the frontend.
   - Worked with Hibernate, Material UI, and Bootstrap.
 
-## Current Semester Courses
+## Master Degree Courses
 
 - 📖 **Foundation of Cyber Security**
   
 - 📖 **Network Theory**
 
 - 📖 **Bioinformatics**
+- 
+- 📖 Penetration Tesing
+
+- 📖 Advanced Algorithm Analysis
+
+- 📖 Computational Biology
 
 
 ## Coding Interests
