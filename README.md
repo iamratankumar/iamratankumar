@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a Computer Science Master's student at the Uni
 - 📖 **Network Theory**
 
 - 📖 **Bioinformatics**
-- 
+  
 - 📖 Penetration Tesing
 
 - 📖 Advanced Algorithm Analysis
