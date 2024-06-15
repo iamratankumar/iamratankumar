@@ -18,17 +18,17 @@ I have a solid background in full stack development, machine learning, and web d
 
 ## Master Degree Courses
 
-- 📖 **Foundation of Cyber Security**
-  
-- 📖 **Network Theory**
+- 📖 **Data Structures & Algorithms Analysis
+- 📖 **Analysis of Algorithms
+- 📖 **Artificial Intelligence
+- 📖 **Data Mining
+- 📖 **Computational Biology/Bioinformatics
+- 📖 **Partial Differential Equations
+- 📖 **Statistical Methods 
+- 📖 **Stats Pattern Recognition
+- 📖 **Graph Network Theory
+- 📖 **Security Penetration Testing
 
-- 📖 **Bioinformatics**
-  
-- 📖 Penetration Tesing
-
-- 📖 Advanced Algorithm Analysis
-
-- 📖 Computational Biology
 
 
 ## Coding Interests
