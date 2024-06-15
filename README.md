@@ -18,7 +18,7 @@ I have a solid background in full stack development, machine learning, and web d
 
 ## Master Degree Courses
 
-- 📖 **Data Structures & Algorithms Analysis
+- 📖 ** Data Structures & Algorithms Analysis
 - 📖 **Analysis of Algorithms
 - 📖 **Artificial Intelligence
 - 📖 **Data Mining
